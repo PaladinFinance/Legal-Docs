@@ -15,12 +15,12 @@ _This event was operated by six elected DAO members in [a previous vote.](https:
 
 
 
-* **DAO: **Self managed association of users under a common interest with no specific hierarchy.
+* **DAO:** Self managed association of users under a common interest with no specific hierarchy.
 * **Liquidity Bootstrapping Event:** Price discovery mechanism using a dutch auction to dynamically reweight a pool of two tokens depending on trading activity to determine the market price of an asset. In this case, it will take place on the Balancer AMM. Hence referred as “the Event”. 
-* **Governance token: **Asset representing a share of the decision-making authority over the parameters and the assets controlled. Hence referred as “PAL tokens”.
+* **Governance token:** Asset representing a share of the decision-making authority over the parameters and the assets controlled. Hence referred as “PAL tokens”.
 * **Subscribers:** Any person subscribing to the Event
 * **Rights:** Share of the decision-making authority of smart contracts parameters controlled by the DAO. 
-* **Core Contributor: **Member of the DAO developing part of the underlying Paladin software through a company (Mithras Labs). 
+* **Core Contributor:** Member of the DAO developing part of the underlying Paladin software through a company (Mithras Labs). 
 
 
 # Conditions of participation
@@ -59,7 +59,7 @@ By accepting this Legal Disclaimer, You acknowledge having the necessary knowled
 * Extreme market volatility;
 * Lack of liquidity to perform market operations.
 
-**Technological risks ** - You understand that participating in the Event can lead to (and is not limited):
+**Technological risks** - You understand that participating in the Event can lead to (and is not limited):
 
 
 
@@ -67,7 +67,7 @@ By accepting this Legal Disclaimer, You acknowledge having the necessary knowled
 * Stolen or loss of the user’s wallet private key, preventing him from accessing the platform;
 * The discontinuity of service of a blockchain.
 
-**Legal risks ** - You understand that participating in the Event can lead to (and is not limited):
+**Legal risks** - You understand that participating in the Event can lead to (and is not limited):
 
 
 
