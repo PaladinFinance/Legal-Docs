@@ -1,28 +1,3 @@
-<!-----
-
-Yay, no errors, warnings, or alerts!
-
-Conversion time: 0.72 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β33
-* Sat Mar 19 2022 11:13:05 GMT-0700 (PDT)
-* Source doc: Legal Disclaimer
-
-WARNING:
-You have 9 H1 headings. You may want to use the "H1 -> H2" option to demote all headings by one level.
-
------>
-
 
 <p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 1; ALERTS: 0.</p>
 <ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
@@ -137,7 +112,7 @@ By accepting this Disclaimer and participating in the Event, you agree to :
 # DAO’s liability
 
 
-# The DAO undertakes to act with the care normally expected from a professional in his professional field and to comply in good faith. It can only be bound by an obligation of best endeavor.
+The DAO undertakes to act with the care normally expected from a professional in his professional field and to comply in good faith. It can only be bound by an obligation of best endeavor.
 
 The DAO’s liability may only be incurred if the Subscriber proves that the DAO acted wrongfully and intentionally and exclusively if this behavior caused him/her a certain, personal and direct damage.
 
