@@ -1,10 +1,4 @@
 
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 1; ALERTS: 0.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p>
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
 
 **LEGAL DISCLAIMER **
 
@@ -65,7 +59,7 @@ By accepting this Legal Disclaimer, You acknowledge having the necessary knowled
 * Extreme market volatility;
 * Lack of liquidity to perform market operations.
 
-**Technological risks **- You understand that participating in the Event can lead to (and is not limited):
+**Technological risks ** - You understand that participating in the Event can lead to (and is not limited):
 
 
 
@@ -73,7 +67,7 @@ By accepting this Legal Disclaimer, You acknowledge having the necessary knowled
 * Stolen or loss of the user’s wallet private key, preventing him from accessing the platform;
 * The discontinuity of service of a blockchain.
 
-**Legal risks **- You understand that participating in the Event can lead to (and is not limited):
+**Legal risks ** - You understand that participating in the Event can lead to (and is not limited):
 
 
 
@@ -81,7 +75,7 @@ By accepting this Legal Disclaimer, You acknowledge having the necessary knowled
 * The lack of regulation or legal framework for this kind of operation; 
 * The appearance of a new framework impacting the lawfulness of the Event.
 
-**Project risks -** You understand that participating in the Event can lead to (and is not limited):
+**Project risks** - You understand that participating in the Event can lead to (and is not limited):
 
 
 
@@ -89,7 +83,7 @@ By accepting this Legal Disclaimer, You acknowledge having the necessary knowled
 * A major pivot in strategy;
 * Modification of the Rights.
 
-**Other risks - **You acknowledge that there are other significant risks such as (but limited to):
+**Other risks** - You acknowledge that there are other significant risks such as (but limited to):
 
 
 
